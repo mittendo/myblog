@@ -59,13 +59,13 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-@media (min-width: 56em) {
+@media (min-width: 48em) {
   .sidebar {
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 19rem;
     text-align: left;
   }
 }
@@ -206,7 +206,7 @@ a.sidebar-nav-item:focus {
 
 /* Green */
 .theme-base-0b .sidebar {
-  background-color: #90a959;
+  background-color: #7AB800;
 }
 .theme-base-0b .content a,
 .theme-base-0b .related-posts li a:hover {
