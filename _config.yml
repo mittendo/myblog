@@ -6,33 +6,33 @@ permalink: /:year/:month/:day/:title.html
 # relative_permalinks: true
 
 # Setup
-title:            My Sample Blog
+title:            Informationen über Lehre, aktuelle Forschung und R
 tagline:          ''
-description:      'Jekyll-powered, Hyde-themed, knitr-ready.'
-baseurl: "/knitr-hyde" # If you are making a gh-pages project blog, this is
+description:      'Informationen aus dem Institut für Politikwissenschaft der BUW'
+baseurl: "/myblog" # If you are making a gh-pages project blog, this is
                         # the name of your project repo, preceded by a /'
                         # Set it to just "" if you are making a user page.
                         
-baseurlknitr:  "/knitr-hyde/" # This will always be your baseurl plus and extra '/'
+baseurlknitr:  "/myblog/" # This will always be your baseurl plus and extra '/'
                                 # at the end.  It's used only when knitr renders
                                 # your R Markdown files.
                         
-url: "https://homerhanumat.github.io" # the base hostname & protocol for your site
+url: "https://mittendo.github.io" # the base hostname & protocol for your site
 
 # set limit on number of post to appear on Home page
 homepostlimit: 4
 
 # Disqus comments:
-disqus:           true
-shortname:        homerhanumatknitrhyde
+disqus:           false
+shortname:        mittendomyblog
 
 # Social Media
-twitter:          true # add a twitter button to each post
-facebook:         true # add a facebook share button to each post
+twitter:          false # add a twitter button to each post
+facebook:         false # add a facebook share button to each post
 
 author:
-  name:           'Homer White'
-  url:            https://statistics.rainandrhino.org
+  name:           'Volker Mittendorf'
+  url:            https://www.volker-mittendorf.de
 
 github:
-  repo:           https://github.com/homerhanumat/knitr-hyde
+  repo:           https://github.com/mittendo/myblog
