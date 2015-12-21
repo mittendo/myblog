@@ -5,7 +5,7 @@ comments:  true
 published:  true
 author: "Volker Mittendorf"
 date: 2015-12-18 20:00:00
-categories: [R]
+categories: [R, Direkte Demokratie]
 output:
   html_document:
     mathjax:  default
