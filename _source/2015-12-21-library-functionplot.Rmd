@@ -12,9 +12,7 @@ output:
     fig_caption:  true
 ---
 
-
 Interessant ist das neue Paket ```functionplotR```. Es erleichtert die Darstellung von Funktionen und kann gut genutzt werden, um auch interaktiv einige Eigenschaften von Funktionen zu ermitteln. Dadurch eignet es sich besonders für das Lernen statistischer Inhalte.
-
 
 
 # Plot einer Funktion
