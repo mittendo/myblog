@@ -11,9 +11,7 @@ output:
     mathjax:  default
     fig_caption:  true
 ---
-
-Interessant ist das neue Paket ```functionplotR```. Es erleichtert die Darstellung von Funktionen und kann gut genutzt werden, um auch interaktiv einige Eigenschaften von Funktionen zu ermitteln. Dadurch eignet es sich besonders für das Lernen statistischer Inhalte.
-
+nteressant ist das neue Paket ```functionplotR```. Es erleichtert die Darstellung von Funktionen und kann gut genutzt werden, um auch interaktiv einige Eigenschaften von Funktionen zu ermitteln. Dadurch eignet es sich besonders für das Lernen statistischer Inhalte.
 
 # Plot einer Funktion
 ```{r setup, echo=FALSE, warning=FALSE, message=FALSE}
@@ -21,7 +19,6 @@ library("BBDBinR")
 library("functionplotR")
 
 ```
-
 ```{r functionplot}
 functionplot("x+2")
 ```
